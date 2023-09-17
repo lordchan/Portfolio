@@ -6,3 +6,4 @@ Here you can find my projects.
 4. [Netflix Tableau Visualization](https://public.tableau.com/app/profile/chanakya.g.r)
 5. [MS Excel Sales Dashboard](https://github.com/lordchan/Grocery-Sales-dashboard/tree/main)
 6. [Aerofit Customer Data Analysis](https://github.com/lordchan/-Business-Case-Study-Aerofit---Descriptive-Statistics-Probability)
+7. [Hypothesis testing and Correlation Analysis on demand of Yulu bikes](https://github.com/lordchan/Hypothesis_testing_correlation_analysis_yulu_bikes/tree/main)
