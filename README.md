@@ -7,3 +7,6 @@ Here you can find my projects.
 5. [MS Excel Sales Dashboard](https://github.com/lordchan/Grocery-Sales-dashboard/tree/main)
 6. [Aerofit Customer Data Analysis](https://github.com/lordchan/-Business-Case-Study-Aerofit---Descriptive-Statistics-Probability)
 7. [Hypothesis testing and Correlation Analysis on demand of Yulu bikes](https://github.com/lordchan/Hypothesis_testing_correlation_analysis_yulu_bikes/tree/main)
+8. [Feature Engineering on Delhivery Dataset](https://github.com/lordchan/Delhivery_feature_engineering)
+9. [Linear Regression model on Jamboree dataset](https://github.com/lordchan/Jamboree_education_Linear_regression)
+10. [Central Limit Theorem and Hypothesis testing on Walmart data](https://github.com/lordchan/Walmart_CLT_HypothesisTesting)
