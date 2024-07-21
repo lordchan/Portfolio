@@ -11,3 +11,4 @@ Here you can find my projects.
 9. [Linear Regression model on Jamboree dataset](https://github.com/lordchan/Jamboree_education_Linear_regression)
 10. [Central Limit Theorem and Hypothesis testing on Walmart data](https://github.com/lordchan/Walmart_CLT_HypothesisTesting)
 11. [Making a Sankey Diagram to understand/Analyze Churn](https://github.com/lordchan/Sankey_Graph/tree/main)
+12. [Logistic Regression model](https://github.com/lordchan/LoanTap-Logistic-Regression)
