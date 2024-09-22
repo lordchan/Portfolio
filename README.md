@@ -13,3 +13,4 @@ Here you can find my projects.
 11. [Making a Sankey Diagram to understand/Analyze Churn](https://github.com/lordchan/Sankey_Graph/tree/main)
 12. [Logistic Regression model](https://github.com/lordchan/LoanTap-Logistic-Regression)
 13. [Unsupervised Learning - Clustering of Scaler learners](https://github.com/lordchan/Unsupervised-Learning---Clustering-of-Scaler-learners)
+14. [Time Series Forecasting - Ad ease views forecast](https://github.com/lordchan/time-series-forecasting)
