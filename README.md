@@ -15,4 +15,4 @@ Hello there, I am Chanakya from Bangalore, India. I have close to 4 years of exp
 13. [Unsupervised Learning - Clustering of Scaler learners](https://github.com/lordchan/Unsupervised-Learning---Clustering-of-Scaler-learners)
 14. [Time Series Forecasting - Ad ease views forecast](https://github.com/lordchan/time-series-forecasting)
 
-You can connect with me on [Linkedin](https://www.linkedin.com/in/chanakya-gadwal/), happy to connect and discuss. 
+You can connect with me on [Linkedin](https://www.linkedin.com/in/chanakya-gadwal/), happy to help and discuss. 
